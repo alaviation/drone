@@ -4,7 +4,7 @@
 
 
 
-- Pilota di linea,  - Istruttore ed esaminatore con oltre 20000 [^1] ore  di volo su:
+- Pilota di linea, istruttore ed esaminatore con oltre 20000[^1] ore  di volo su:
 	- Velivoli
 	- Elicotteri
 	- Droni
@@ -13,5 +13,3 @@
 Infoline: [Paolo.uno](http://www.paolo.uno)
 
 [^1]: Ventimila
-
-[[Sanremo/Droni e ...\|Droni e ...]]
