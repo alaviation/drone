@@ -5,4 +5,4 @@
 
 Una presentazione di [[Droni/Paolo Omodei-Zorini\|Paolo Omodei-Zorini]]
 
-Questo sito e' disponibile su <https://drone-bice.vercel.app>
+Questo sito e' disponibile per tutti su <https://drone-bice.vercel.app>

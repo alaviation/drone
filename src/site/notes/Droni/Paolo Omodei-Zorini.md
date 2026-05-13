@@ -12,4 +12,4 @@
 
 Infoline: [Paolo.uno](http://www.paolo.uno)
 
-[^1]: Ventimila
+[^1]: Ventimila. 
