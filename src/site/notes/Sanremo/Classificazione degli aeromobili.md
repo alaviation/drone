@@ -19,7 +19,7 @@
 	- Alianti
 		- Libratori
 		- Veleggiatori
-	- Velivoli
+	- [[Sanremo/Velivoli\|Velivoli]]
 		- Terrestri
 		- Idrovolanti
 		- Anfibi
