@@ -23,4 +23,6 @@
 	- Rotogiri
 		- Autogiro
 		- Elicotteri
+			- Monorotore
+			- Plurirotore
 
