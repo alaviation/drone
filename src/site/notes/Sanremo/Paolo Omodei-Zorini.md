@@ -8,6 +8,7 @@
 	- Velivoli
 	- Elicotteri
 	- Droni
+- Direttore di [Alpa Lima Aviation](https://scuoladroni.pro)
 - Saltatore con gli sci
 
 Infoline: [Paolo.uno](http://www.paolo.uno)
