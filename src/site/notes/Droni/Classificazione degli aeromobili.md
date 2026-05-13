@@ -24,7 +24,7 @@
 		- Anfibi
 	- Rotogiri
 		- Autogiro
-		- Elicotteri
+		- [[Droni/Elicotteri\|Elicotteri]]
 			- Monorotore
 			- Plurirotore
 
