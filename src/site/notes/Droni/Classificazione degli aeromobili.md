@@ -28,3 +28,8 @@
 			- Monorotore
 			- Plurirotore
 
+Quindi:
+
+| Velivolo                                                                            | Non Velivolo                                                                                                            |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| ![Velivolo](https://top-engineer.it/wp-content/uploads/2021/07/Aerei-optimized.png) | ![Elicottero](https://upload.wikimedia.org/wikipedia/commons/a/ad/NH_Industries_NH-90NFH%2C_Italy_-_Navy_JP7306250.jpg) |

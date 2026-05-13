@@ -4,8 +4,8 @@
 
 
 - Pilota di linea, istruttore ed esaminatore con oltre 20000[^1] ore  di volo su:
-	- Velivoli
-	- Elicotteri
+	- [[Droni/Velivoli\|Velivoli]]
+	- [[Droni/Elicotteri\|Elicotteri]]
 	- Droni
 - Direttore di [Alpha Lima Aviation](https://scuoladroni.pro)
 - Saltatore con gli sci
