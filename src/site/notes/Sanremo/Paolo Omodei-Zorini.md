@@ -12,4 +12,6 @@
 
 Infoline: [Paolo.uno](http://www.paolo.uno)
 
+[[Sanremo/Classificazione degli aeromobili\|Classificazione degli aeromobili]]
+
 [^1]: Ventimila
