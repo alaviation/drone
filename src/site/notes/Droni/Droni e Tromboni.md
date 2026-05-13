@@ -5,6 +5,7 @@
 
 Una presentazione di [[Droni/Paolo Omodei-Zorini\|Paolo Omodei-Zorini]]
 
-Questo sito e' disponibile per tutti su <https://drone-bice.vercel.app>
+Questo sito e' disponibile per tutti su <https://drone-bice.vercel.app> con licenza [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-This work is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)![64](https://mirrors.creativecommons.org/presskit/icons/cc.svg)![](https://mirrors.creativecommons.org/presskit/icons/by.svg)![](https://mirrors.creativecommons.org/presskit/icons/nc.svg)![](https://mirrors.creativecommons.org/presskit/icons/sa.svg)
+| ![64](https://mirrors.creativecommons.org/presskit/icons/cc.svg) | ![](https://mirrors.creativecommons.org/presskit/icons/by.svg) | ![](https://mirrors.creativecommons.org/presskit/icons/nc.svg) | ![](https://mirrors.creativecommons.org/presskit/icons/sa.svg) |
+| ---------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
