@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/sanremo/classificazione-degli-aeromobili/","dg-note-properties":{}}
 ---
 
-# Aeromobili
-## Classificazione ex Regolamento per la navigazione aerea
+
 
 - Piu' leggeri dell' aria (Aerostati)
 	- Palloni
