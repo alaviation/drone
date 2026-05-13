@@ -2,20 +2,20 @@
 {"dg-publish":true,"permalink":"/droni/enti-regolatori/","dg-note-properties":{}}
 ---
 
-# Nel Mondo
+## Nel Mondo
 
 - [ICAO](https://www.icao.int)
 
-# In Europa
+## In Europa
 
 - Nessuno, legiferano direttamente il Parlamento e il Consiglio
 	- EASA e' solo un' agenzia consultiva
  
-# In Italia
+## In Italia
 
 - [ENAC](https://www.enac.gov.it)
 
-## Approfondimento
+### Approfondimento
 
 Vediamo in dettaglio qualche ente
 
