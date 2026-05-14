@@ -9,7 +9,7 @@
 		- Liberi
 		- Frenati
 	- Dirigibili
-		- Fosci
+		- Flosci
 		- Semirigidi
 		- Rigidi (Zeppelin)
 - Piu' pesanti dell' aria (Aerodine)

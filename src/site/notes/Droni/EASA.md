@@ -47,6 +47,13 @@ L'**EASA** è l’**Agenzia dell’Unione Europea per la Sicurezza Aerea**. È l
 ### **Frase da ricordare**
 > «L’EASA crea regole comuni, sicure e uniformi per volare in tutta Europa.»
 
+## Regolamenti droni dal 2019
+
+__Vengono emanati dal Parlamento Europeo e dal Consiglio__
+
+- [[Droni/947 - Operazioni\|947 - Operazioni]]
+- [[Droni/945 - Tecnico\|945 - Tecnico]]
+
 ---
 
 **Pronuncia**: I-A-S-A (i-a-sa) o “Easa” come parola unica.
