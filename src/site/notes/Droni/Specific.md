@@ -15,12 +15,12 @@ La **categoria SPECIFIC** è destinata alle operazioni con droni che presentano 
 
 ### **Come operare in Specific**
 
-|Metodo|Descrizione|Quando si usa|Autorizzazione richiesta|
-|---|---|---|---|
-|**Standard Scenario (STS)**|Scenario pre-definito EASA|Operazioni ripetitive standard (es. ispezioni lineari, consegne)|Dichiarazione dell’operatore (senza attesa di approvazione)|
-|**PDRA** (Pre-Defined Risk Assessment)|Valutazione del rischio pre-definita|Casi specifici già valutati da EASA|Dichiarazione + rispetto condizioni|
-|**SORA** (Specific Operations Risk Assessment)|Valutazione del rischio personalizzata|Operazioni complesse o nuove|Autorizzazione esplicita ENAC|
-|**Autorizzazione diretta**|Richiesta manuale all’autorità|Tutti i casi non coperti sopra|Autorizzazione ENAC|
+| Metodo                                         | Descrizione                            | Quando si usa                                                    | Autorizzazione richiesta                                    |
+| ---------------------------------------------- | -------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------- |
+| **[[Droni/Standard Scenario (STS)\|Standard Scenario (STS)]]**                | Scenario pre-definito EASA             | Operazioni ripetitive standard (es. ispezioni lineari, consegne) | Dichiarazione dell’operatore (senza attesa di approvazione) |
+| **PDRA** (Pre-Defined Risk Assessment)         | Valutazione del rischio pre-definita   | Casi specifici già valutati da EASA                              | Dichiarazione + rispetto condizioni                         |
+| **SORA** (Specific Operations Risk Assessment) | Valutazione del rischio personalizzata | Operazioni complesse o nuove                                     | Autorizzazione esplicita ENAC                               |
+| **Autorizzazione diretta**                     | Richiesta manuale all’autorità         | Tutti i casi non coperti sopra                                   | Autorizzazione ENAC                                         |
 
 ### **Requisiti principali**
 
