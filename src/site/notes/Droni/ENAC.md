@@ -23,7 +23,7 @@ L'**ENAC** è l’**autorità unica nazionale italiana** per la regolazione tecn
 
 ### **Competenze principali**
 - Tenuta del **Registro Aeronautico Nazionale**
-- Rilascio di licenze e certificazioni al personale di volo
+- Rilascio [[Droni/Licenze e certificazioni del personale di volo UAS\|Licenze e certificazioni del personale di volo UAS]]
 - Certificazione e sorveglianza di **aeroporti** e **compagnie aeree**
 - Approvazione di scuole di volo, centri di manutenzione e produttori
 - Regolazione dei servizi di terra e assistenza al volo
