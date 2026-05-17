@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/droni/droni-e-tromboni/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-
+![](https://cdn.assets.lomography.com/fe/618fb54e143b477f287733fa549ff5bf807c1a/1216x806x1.jpg?auth=801b88cba37c6eca499e1af783275526d84792c8ee0c5afd8139ff86821ace31)
 Una presentazione di [[Droni/Paolo Omodei-Zorini\|Paolo Omodei-Zorini]]
 
 Il repository e' disponibile a questo indirizzo <https://github.com/alaviation/drone>
