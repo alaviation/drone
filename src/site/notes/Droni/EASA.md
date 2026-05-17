@@ -30,6 +30,7 @@ L'**EASA** è l’**Agenzia dell’Unione Europea per la Sicurezza Aerea**. È l
 - [**Regolamento (UE) 2019/945**](https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32019R0945) – Droni (UAS) - Tecniche
 - [**Regolamento (UE) 2019/947**](https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32019R0947) – Droni (UAS) - Operazioni
 - [**Regolamento (UE) 923/2012**](https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32012R0923) – SERA
+- [Easy access rules](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-unmanned-aircraft-systems) - [[Easy access rules \| Pagina dedicata]]
 
 
 ### **Ruolo attuale**
