@@ -40,6 +40,10 @@ L'**EASA** è l’**Agenzia dell’Unione Europea per la Sicurezza Aerea**. È l
 - Gestisce la **transizione ambientale** (sostenibilità, SAF, emissioni, rumore)
 - Norma il settore **droni** e la **mobilità aerea avanzata** (eVTOL / air taxi)
 
+### Autorita' Competenti
+
+Sono definite dai principi contenuti nei cosiddetti [Trattati dell'Unione Europea](https://it.wikipedia.org/wiki/Trattati_dell'Unione_europea) ed in particolare dal [[Droni/Principio di Sussidiarieta'\|Principio di Sussidiarieta']] attraverso il quale e' possibile definire quale sia l'[[Droni/Autorita' competente\|Autorita' competente]] per ogni singolo settore.
+
 ### **Differenza chiave con ICAO**
 > ICAO = **Standard mondiali** (raccomandazioni)  
 > EASA = **Regole vincolanti** e direttamente applicabili in Europa
