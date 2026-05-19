@@ -6,10 +6,10 @@
 
 ### 1. Cos'è un grafo?
 
-Un **grafo** è una coppia G=(V,E) G = (V, E) G=(V,E), dove:
+Un **grafo** è una coppia $G=(V,E)$ dove:
 
-- V V V è un insieme di **vertici** (o nodi), che rappresentano gli oggetti.
-- E E E è un insieme di **archi** (o spigoli), che rappresentano le relazioni tra gli oggetti.
+- V è un insieme di **vertici** (o nodi), che rappresentano gli oggetti.
+- E è un insieme di **archi** (o spigoli), che rappresentano le relazioni tra gli oggetti.
 
 **Esempio semplice**:
 
