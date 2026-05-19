@@ -20,14 +20,14 @@ Puoi immaginarlo come un insieme di punti collegati da linee.
 
 ### 2. Tipi principali di grafi
 
-|Tipo di grafo|Caratteristica principale|Esempio tipico|
-|---|---|---|
-|**Non orientato**|Gli archi non hanno direzione (A-B = B-A)|Amicizie su Facebook|
-|**Orientato (digrafo)**|Gli archi hanno direzione (A → B ≠ B → A)|Follower su Instagram/Twitter|
-|**Pesato**|Ogni arco ha un numero (peso/costo)|Distanza tra città su una mappa|
-|**Semplice**|Nessun cappio, nessun arco multiplo|La maggior parte dei grafi base|
-|**Multigrafo**|Permette archi multipli tra stessi vertici|Reti stradali con più strade|
-|**Completo** (Kn K_n Kn​)|Ogni vertice è collegato a tutti gli altri|K5 K_5 K5​ ha 10 archi|
+| Tipo di grafo           | Caratteristica principale                  | Esempio tipico                  |
+| ----------------------- | ------------------------------------------ | ------------------------------- |
+| **Non orientato**       | Gli archi non hanno direzione (A-B = B-A)  | Amicizie su Facebook            |
+| **Orientato (digrafo)** | Gli archi hanno direzione (A → B ≠ B → A)  | Follower su Instagram/Twitter   |
+| **Pesato**              | Ogni arco ha un numero (peso/costo)        | Distanza tra città su una mappa |
+| **Semplice**            | Nessun cappio, nessun arco multiplo        | La maggior parte dei grafi base |
+| **Multigrafo**          | Permette archi multipli tra stessi vertici | Reti stradali con più strade    |
+| **Completo** ($K_n$)    | Ogni vertice è collegato a tutti gli altri | $K_5$​ ha 10 archi              |
 
 ### 3. Concetti fondamentali
 
@@ -38,14 +38,14 @@ Puoi immaginarlo come un insieme di punti collegati da linee.
 - **Ciclo**: cammino che torna al vertice di partenza.
 - **Grafo connesso**: esiste un cammino tra ogni coppia di vertici.
 - **Componente connessa**: porzione massima connessa del grafo.
-- **Albero**: grafo connesso e senza cicli. Ha esattamente n−1 n-1 n−1 archi se ha n n n vertici. È la struttura più "economica" per connettere tutto.
+- **Albero**: grafo connesso e senza cicli. Ha esattamente $n−1$ archi se ha n vertici. È la struttura più "economica" per connettere tutto.
 - **Grafo bipartito**: i vertici sono divisi in due gruppi, e gli archi vanno solo tra i gruppi (non all'interno). Esempio: uomini-donne in un ballo, o partite di calcio (squadre-giocatori).
 
 ### 4. Problemi classici della teoria dei grafi
 
 1. **Problema di Eulero** (1736) – nascita della teoria dei grafi Quando esiste un cammino che attraversa **ogni arco esattamente una volta**? → Regola: grafo connesso e al massimo 2 vertici di grado dispari.
 2. **Problema di Hamilton** Esiste un cammino che visita **ogni vertice esattamente una volta**? (Molto più difficile, è NP-completo).
-3. **Colorazione** Quanti colori servono per colorare i vertici in modo che vertici adiacenti abbiano colori diversi? Il **numero cromatico** χ(G). Per i grafi planari: bastano 4 colori (Teorema dei quattro colori).
+3. **Colorazione** Quanti colori servono per colorare i vertici in modo che vertici adiacenti abbiano colori diversi? Il **numero cromatico** $χ^G$. Per i grafi planari: bastano 4 colori (Teorema dei quattro colori).
 4. **Cammino più corto** Algoritmi famosi: Dijkstra (pesi positivi), Bellman-Ford, A*.
 5. **Flusso massimo** Quanto "flusso" (acqua, traffico, dati) può passare da una sorgente a un pozzo?
 6. **Matching** (accoppiamento) Quante coppie posso formare senza che due condividano lo stesso vertice?
@@ -53,8 +53,8 @@ Puoi immaginarlo come un insieme di punti collegati da linee.
 ### 5. Teoremi importanti (senza troppa formalità)
 
 - **Teorema di Ramsey**: in un grafo abbastanza grande, è inevitabile trovare o un gruppo completamente connesso o un gruppo completamente sconnesso.
-- **Teorema di Menger**: la connettività è uguale al numero minimo di vertici/arche da rimuovere per disconnettere due punti.
-- **Formula di Eulero** per grafi planari: V−E+F=2 V - E + F = 2 V−E+F=2 (dove F = facce, inclusa quella esterna).
+- **Teorema di Menger**: la connettività è uguale al numero minimo di vertici/archi da rimuovere per disconnettere due punti.
+- **Formula di Eulero** per grafi planari: $V−E+F=2$  (dove F = facce, inclusa quella esterna).
 
 ### 6. Applicazioni (tantissime!)
 
@@ -63,7 +63,7 @@ Puoi immaginarlo come un insieme di punti collegati da linee.
 - **Trasporti** (Google Maps, logistica)
 - **Bioinformatica** (reti metaboliche, interazioni proteiche)
 - **Chip design** e circuiti elettronici
-- **Intelligenza Artificiale** (Knowledge Graph, Graph Neural Networks)
+- **Intelligenza Artificiale** (**Knowledge Graph**, Graph Neural Networks)
 - **Chimica** (molecole come grafi)
 - **Analisi di epidemie** (diffusione dei virus)
 
@@ -77,4 +77,4 @@ G = nx.Graph()
 G.add_edges_from([('A','B'), ('B','C'), ('A','C')])
 print(nx.is_connected(G))
 ```
-3. Usare il grafo presente in [[Droni/Droni e Tromboni\|questo sito]]
+3. Usare il *multigrafo non orientato* presente in [[Droni/Droni e Tromboni\|questo sito]]
