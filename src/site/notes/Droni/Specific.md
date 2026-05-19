@@ -27,7 +27,7 @@ La **categoria SPECIFIC** è destinata alle operazioni con droni che presentano 
 - **Registrazione operatore** obbligatoria su **d-flight**
 - **Manuale delle operazioni (OM)** e **procedura di emergenza**
 - **Analisi del rischio** (SORA o equivalente)
-- **Pilota remoto** con formazione specifica (teorica + pratica) + attestato
+- **Pilota remoto** con [[Droni/Attestati per Categoria Specific\|formazione specifica]] (teorica + pratica) + attestato
 - **Assicurazione RC** adeguata al rischio
 - **Remote ID** e **geo-awareness** obbligatori
 - Possibilità di operazioni **BVLOS**, oltre 120 m, vicino a persone, ecc.
